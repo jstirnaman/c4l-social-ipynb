@@ -1,6 +1,7 @@
 
 
-C4L15 Social
+c4l-social-ipynb
+An iPython Notebook for analyzing social feeds, specifically Code4Lib Conference social activity. 
 
 ## You'll need to install these modules if you want to use them.
 e.g. From the command line: pip install matplotlib
