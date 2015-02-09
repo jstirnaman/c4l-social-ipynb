@@ -1,7 +1,10 @@
 
 
-c4l-social-ipynb
+# c4l-social-ipynb
+
 An iPython Notebook for analyzing social feeds, specifically Code4Lib Conference social activity.
+Clone or download this notebook and open with IP[y]: Notebook http://ipython.org.
+
 This is what the notebook will look like when you open it:
 
 ## You'll need to install these modules if you want to use them.
